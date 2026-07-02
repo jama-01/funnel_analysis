@@ -1,0 +1,9 @@
+event,region,nb_users,previous_users,convertion
+Browse,East,2548,,
+Purchase,East,245,2548.0,9.0
+Browse,North,2463,,
+Purchase,North,253,2463.0,10.0
+Browse,South,2543,,
+Purchase,South,268,2543.0,10.0
+Browse,West,2446,,
+Purchase,West,238,2446.0,9.0

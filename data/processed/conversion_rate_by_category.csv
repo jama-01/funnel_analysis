@@ -1,0 +1,11 @@
+event,product_category,nb_users,previous_users,convertion
+Browse,Beauty,2021,,
+Purchase,Beauty,191,2021.0,9.45
+Browse,Electronics,2052,,
+Purchase,Electronics,229,2052.0,11.16
+Browse,Fashion,2001,,
+Purchase,Fashion,211,2001.0,10.54
+Browse,Home,1978,,
+Purchase,Home,184,1978.0,9.3
+Browse,Sports,1948,,
+Purchase,Sports,189,1948.0,9.7
